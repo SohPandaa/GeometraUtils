@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "geometrautils:iron_cast"
+    },
+    "X": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XIX",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:blaze_rod"
+  }
+}
