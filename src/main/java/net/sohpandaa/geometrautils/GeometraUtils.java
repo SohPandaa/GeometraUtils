@@ -4,6 +4,7 @@ import net.sohpandaa.geometrautils.block.ModBlocks;
 import net.sohpandaa.geometrautils.event.ModClientEvents;
 import net.sohpandaa.geometrautils.item.ModCreativeModeTabs;
 import net.sohpandaa.geometrautils.item.ModItems;
+import net.sohpandaa.geometrautils.loot.ModLootModifiers;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -46,6 +47,7 @@ public class GeometraUtils
         ModCreativeModeTabs.register(modEventBus);
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModLootModifiers.register(modEventBus);
 
 
         // Register the item to a creative tab

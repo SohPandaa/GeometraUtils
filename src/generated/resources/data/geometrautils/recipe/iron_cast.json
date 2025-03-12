@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "IGI",
+    "IGI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "geometrautils:iron_cast"
+  }
+}

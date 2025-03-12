@@ -1,12 +1,14 @@
 {
   "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 1200,
+  "experience": 0.25,
+  "group": "blaze",
   "ingredient": {
     "item": "minecraft:magma_block"
   },
   "result": {
+    "count": 1,
     "id": "minecraft:blaze_powder"
-  },
-  "experience": 0.1,
-  "cookingtime": 2400
+  }
 }
-

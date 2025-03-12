@@ -4,6 +4,7 @@ plugins {
     id 'idea'
     id 'maven-publish'
     id 'net.neoforged.gradle.userdev' version '7.0.170'
+
 }
 
 tasks.named('wrapper', Wrapper).configure {
@@ -98,6 +99,11 @@ dependencies {
     // For all intends and purposes: You can treat this dependency as if it is a normal library you would use.
     implementation "net.neoforged:neoforge:${neo_version}"
 
+
+
+
+
+
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"
@@ -156,13 +162,22 @@ publishing {
     repositories {
         maven {
             url "file://${project.projectDir}/repo"
-        }
+            }
+        maven { url = "https://api.modrinth.com/maven" }
+
     }
 }
 
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8' // Use the UTF-8 charset for Java compilation
 }
+
+//Duplicate Strategy
+processResources {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+}
+
 
 // IDEA no longer automatically downloads sources/javadoc jars for dependencies, so we need to explicitly enable the behavior.
 idea {

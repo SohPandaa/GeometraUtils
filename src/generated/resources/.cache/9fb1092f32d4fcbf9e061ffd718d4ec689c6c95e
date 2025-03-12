@@ -1,0 +1,9 @@
+// 1.21.1	2025-03-12T14:04:42.8229813	Recipes
+7958f4388ffe6c4fded3fb15c629c3c97e537c0c data/geometrautils/advancement/recipes/misc/empty_tear.json
+8282f8f06fa3003df6bfb3136842659721bf49fa data/geometrautils/advancement/recipes/misc/iron_cast.json
+fd140468085bd937e7ce1b6e4a31911f66839eee data/geometrautils/recipe/empty_tear.json
+f16b4af30bd3d69de0101f1c2fe86ee02a14b442 data/geometrautils/recipe/iron_cast.json
+815c39fc62cfbc63140dd96bb888c140c42e7c90 data/minecraft/advancement/recipes/misc/blaze_powder_from_blasting_magma_block.json
+2f3c8abf34c8477f2adfc7a135f7003e7a8ddf10 data/minecraft/advancement/recipes/misc/blaze_rod.json
+ae59d32a892f097c1f4ed9417b6b5da56e926968 data/minecraft/recipe/blaze_powder_from_blasting_magma_block.json
+23eac3529344af84bf84d218f30e9925d23f261f data/minecraft/recipe/blaze_rod.json

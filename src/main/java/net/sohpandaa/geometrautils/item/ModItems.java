@@ -15,6 +15,9 @@ public class ModItems {
     public static final DeferredItem<Item> MOSS_BALL = ITEMS.register("moss_ball",
             ()-> new Item(new Item.Properties()) );
 
+    public static final DeferredItem<Item> IRON_CAST = ITEMS.register("iron_cast",
+            ()-> new Item(new Item.Properties()) );
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

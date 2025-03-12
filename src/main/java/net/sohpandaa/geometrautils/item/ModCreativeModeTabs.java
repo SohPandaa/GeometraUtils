@@ -22,6 +22,8 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.EMPTY_TEAR);
                         output.accept(ModBlocks.SOUL_MUD);
+                        output.accept(ModItems.IRON_CAST);
+
 
                     }).build());
 
