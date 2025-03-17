@@ -2,9 +2,21 @@
   "item.geometrautils.empty_tear": "Empty Tear",
   "item.geometrtautils.moss_ball": "Moss Ball",
   "item.geometrautils.iron_cast" : "Iron Cast",
+  "item.geometrautils.ability_voucher" : "Ability Voucher",
+  "item.geometrautils.ball_voucher" : "Ball Voucher",
+  "item.geometrautils.evs_voucher" : "EV Voucher",
+  "item.geometrautils.ivs_voucher" : "IV Voucher",
+  "item.geometrautils.move_voucher" : "Move Voucher",
+  "item.geometrautils.nature_voucher" : "Nature Voucher",
+  "item.geometrautils.friendship_voucher" : "Friendship Voucher",
+  "item.geometrautils.shiny_voucher" : "Shiny Voucher",
+  "item.geometrautils.iron_ribbon" : "Iron Ribbon",
+  "item.geometrautils.gold_ribbon" : "§6Gold Ribbon",
+  "item.geometrautils.diamond_ribbon" : "§bDiamond Ribbon",
 
 
   "block.geometrautils.soul_mud": "Soul Mud",
 
-  "creativetab.geometrautils.moss_ball_tab": "Geometra Utils"
+  "creativetab.geometrautils.moss_ball_tab": "Geometra Utils",
+  "creativetab.geometrautils.rewards_tab": "Geoemtra Rewards"
 }

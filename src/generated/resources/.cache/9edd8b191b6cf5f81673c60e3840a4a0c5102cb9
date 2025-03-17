@@ -1,4 +1,15 @@
-// 1.21.1	2025-03-12T14:04:42.8234812	Item Models: geometrautils
+// 1.21.1	2025-03-17T01:41:22.3649404	Item Models: geometrautils
+e0daa789a11f9150e60f9bc5f244a5f3131c0e63 assets/geometrautils/models/item/ability_voucher.json
+793fd2faa3d23fbe5e0d581cf9b43b7f882b72ea assets/geometrautils/models/item/ball_voucher.json
+cce8530665d0a7768e36581eae3c5cdd89a2f4b4 assets/geometrautils/models/item/diamond_ribbon.json
 f663fa90e31e2e49b99b17f80e14d16062ea462f assets/geometrautils/models/item/empty_tear.json
+6bf1735bf1383050223dbd77e2a0ccaf2a23ddbc assets/geometrautils/models/item/evs_voucher.json
+aad502cfb49e0db2563fb267b296bccc5282e402 assets/geometrautils/models/item/friendship_voucher.json
+eb43b4bd835c8b2d6aa05358c23452829fd322ed assets/geometrautils/models/item/gold_ribbon.json
 a5e5bffcaa58a73443817050e31e32abdafeeb34 assets/geometrautils/models/item/iron_cast.json
+398a819aa97c7eab84f6c739da17b5e9176ab5cd assets/geometrautils/models/item/iron_ribbon.json
+2de4ae50a94e571cc9e3d9b7736af8eaa344860a assets/geometrautils/models/item/ivs_voucher.json
 1d15610f2316744b719aab5db89e81dafbab2aec assets/geometrautils/models/item/moss_ball.json
+e5799418c13265615ba57499c53f3164dff70939 assets/geometrautils/models/item/move_voucher.json
+abc9b0268cf2a9446c1bfc100c303263fe1f11bd assets/geometrautils/models/item/nature_voucher.json
+e87015b9d9882c15fc9ab31bf246408b81f25fdf assets/geometrautils/models/item/shiny_voucher.json

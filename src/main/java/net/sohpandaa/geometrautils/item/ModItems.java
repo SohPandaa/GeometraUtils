@@ -18,6 +18,39 @@ public class ModItems {
     public static final DeferredItem<Item> IRON_CAST = ITEMS.register("iron_cast",
             ()-> new Item(new Item.Properties()) );
 
+    public static final DeferredItem<Item> SHINY_VOUCHER = ITEMS.register("shiny_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> ABILITY_VOUCHER = ITEMS.register("ability_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> BALL_VOUCHER = ITEMS.register("ball_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> EVS_VOUCHER = ITEMS.register("evs_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> IVS_VOUCHER = ITEMS.register("ivs_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> MOVE_VOUCHER = ITEMS.register("move_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> NATURE_VOUCHER = ITEMS.register("nature_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> FRIENDSHIP_VOUCHER = ITEMS.register("friendship_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> IRON_RIBBON = ITEMS.register("iron_ribbon",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> GOLD_RIBBON = ITEMS.register("gold_ribbon",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> DIAMOND_RIBBON = ITEMS.register("diamond_ribbon",
+            ()-> new Item(new Item.Properties()) );
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
