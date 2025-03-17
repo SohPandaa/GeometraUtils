@@ -16,6 +16,17 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.EMPTY_TEAR.get());
         basicItem(ModItems.MOSS_BALL.get());
         basicItem(ModItems.IRON_CAST.get());
+        basicItem(ModItems.SHINY_VOUCHER.get());
+        basicItem(ModItems.BALL_VOUCHER.get());
+        basicItem(ModItems.ABILITY_VOUCHER.get());
+        basicItem(ModItems.EVS_VOUCHER.get());
+        basicItem(ModItems.FRIENDSHIP_VOUCHER.get());
+        basicItem(ModItems.IVS_VOUCHER.get());
+        basicItem(ModItems.MOVE_VOUCHER.get());
+        basicItem(ModItems.NATURE_VOUCHER.get());
+        basicItem(ModItems.IRON_RIBBON.get());
+        basicItem(ModItems.GOLD_RIBBON.get());
+        basicItem(ModItems.DIAMOND_RIBBON.get());
 
     }
 }
