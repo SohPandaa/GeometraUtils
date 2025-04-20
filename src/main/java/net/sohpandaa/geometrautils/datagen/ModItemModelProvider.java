@@ -24,6 +24,8 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.IVS_VOUCHER.get());
         basicItem(ModItems.MOVE_VOUCHER.get());
         basicItem(ModItems.NATURE_VOUCHER.get());
+        basicItem(ModItems.GENDER_VOUCHER.get());
+        basicItem(ModItems.FORM_VOUCHER.get());
         basicItem(ModItems.IRON_RIBBON.get());
         basicItem(ModItems.GOLD_RIBBON.get());
         basicItem(ModItems.DIAMOND_RIBBON.get());
