@@ -41,6 +41,8 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.IVS_VOUCHER);
                         output.accept(ModItems.MOVE_VOUCHER);
                         output.accept(ModItems.NATURE_VOUCHER);
+                        output.accept(ModItems.GENDER_VOUCHER);
+                        output.accept(ModItems.FORM_VOUCHER);
                         output.accept(ModItems.IRON_RIBBON);
                         output.accept(ModItems.GOLD_RIBBON);
                         output.accept(ModItems.DIAMOND_RIBBON);

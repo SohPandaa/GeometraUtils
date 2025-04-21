@@ -51,6 +51,12 @@ public class ModItems {
     public static final DeferredItem<Item> DIAMOND_RIBBON = ITEMS.register("diamond_ribbon",
             ()-> new Item(new Item.Properties()) );
 
+    public static final DeferredItem<Item> GENDER_VOUCHER = ITEMS.register("gender_voucher",
+            ()-> new Item(new Item.Properties()) );
+
+    public static final DeferredItem<Item> FORM_VOUCHER = ITEMS.register("form_voucher",
+            ()-> new Item(new Item.Properties()) );
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

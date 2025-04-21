@@ -10,6 +10,8 @@
   "item.geometrautils.nature_voucher" : "Nature Voucher",
   "item.geometrautils.friendship_voucher" : "Friendship Voucher",
   "item.geometrautils.shiny_voucher" : "Shiny Voucher",
+  "item.geometrautils.gender_voucher" : "Gender Voucher",
+  "item.geometrautils.form_voucher" : "Form Voucher",
   "item.geometrautils.iron_ribbon" : "Iron Ribbon",
   "item.geometrautils.gold_ribbon" : "§6Gold Ribbon",
   "item.geometrautils.diamond_ribbon" : "§bDiamond Ribbon",
@@ -18,5 +20,5 @@
   "block.geometrautils.soul_mud": "Soul Mud",
 
   "creativetab.geometrautils.moss_ball_tab": "Geometra Utils",
-  "creativetab.geometrautils.rewards_tab": "Geoemtra Rewards"
+  "creativetab.geometrautils.rewards_tab": "Geometra Rewards"
 }
