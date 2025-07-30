@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 400,
+  "experience": 0.25,
+  "group": "bulk-smelt",
+  "ingredient": {
+    "item": "minecraft:raw_copper_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:copper_block"
+  }
+}
