@@ -24,6 +24,8 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.EMPTY_TEAR);
                         output.accept(ModBlocks.SOUL_MUD);
                         output.accept(ModItems.IRON_CAST);
+                        output.accept(ModItems.TREE_SAP);
+
 
 
                     }).build());
@@ -46,6 +48,9 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.IRON_RIBBON);
                         output.accept(ModItems.GOLD_RIBBON);
                         output.accept(ModItems.DIAMOND_RIBBON);
+                        output.accept(ModItems.IRON_MEDAL);
+                        output.accept(ModItems.GOLD_MEDAL);
+                        output.accept(ModItems.DIAMOND_MEDAL);
 
 
 
