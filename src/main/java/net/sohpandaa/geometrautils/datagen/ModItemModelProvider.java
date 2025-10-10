@@ -16,6 +16,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.EMPTY_TEAR.get());
         basicItem(ModItems.MOSS_BALL.get());
         basicItem(ModItems.IRON_CAST.get());
+        basicItem(ModItems.TREE_SAP.get());
         basicItem(ModItems.SHINY_VOUCHER.get());
         basicItem(ModItems.BALL_VOUCHER.get());
         basicItem(ModItems.ABILITY_VOUCHER.get());
@@ -29,6 +30,10 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.IRON_RIBBON.get());
         basicItem(ModItems.GOLD_RIBBON.get());
         basicItem(ModItems.DIAMOND_RIBBON.get());
+        basicItem(ModItems.IRON_MEDAL.get());
+        basicItem(ModItems.GOLD_MEDAL.get());
+        basicItem(ModItems.DIAMOND_MEDAL.get());
+
 
     }
 }

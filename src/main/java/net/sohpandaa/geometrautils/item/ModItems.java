@@ -17,6 +17,8 @@ public class ModItems {
 
     public static final DeferredItem<Item> IRON_CAST = ITEMS.register("iron_cast",
             ()-> new Item(new Item.Properties()) );
+    public static final DeferredItem<Item> TREE_SAP = ITEMS.register("tree_sap",
+            ()-> new Item(new Item.Properties()) );
 
     public static final DeferredItem<Item> SHINY_VOUCHER = ITEMS.register("shiny_voucher",
             ()-> new Item(new Item.Properties()) );
@@ -50,6 +52,13 @@ public class ModItems {
 
     public static final DeferredItem<Item> DIAMOND_RIBBON = ITEMS.register("diamond_ribbon",
             ()-> new Item(new Item.Properties()) );
+    public static final DeferredItem<Item> IRON_MEDAL = ITEMS.register("iron_medal",
+            ()-> new Item(new Item.Properties()) );
+    public static final DeferredItem<Item> GOLD_MEDAL = ITEMS.register("gold_medal",
+            ()-> new Item(new Item.Properties()) );
+    public static final DeferredItem<Item> DIAMOND_MEDAL = ITEMS.register("diamond_medal",
+            ()-> new Item(new Item.Properties()) );
+
 
     public static final DeferredItem<Item> GENDER_VOUCHER = ITEMS.register("gender_voucher",
             ()-> new Item(new Item.Properties()) );

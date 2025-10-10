@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_magma_block": {
+    "has_raw_copper_block": {
       "conditions": {
         "items": [
           {
-            "items": "minecraft:magma_block"
+            "items": "minecraft:raw_copper_block"
           }
         ]
       },
@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:blaze_powder_from_blasting_magma_block"
+        "recipe": "geometrautils:copper_block_from_blasting_raw_copper_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -21,12 +21,12 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_magma_block"
+      "has_raw_copper_block"
     ]
   ],
   "rewards": {
     "recipes": [
-      "minecraft:blaze_powder_from_blasting_magma_block"
+      "geometrautils:copper_block_from_blasting_raw_copper_block"
     ]
   }
 }
